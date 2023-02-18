@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Nikhilgit123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Nikhilgit123/Nikhilgit123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I am Nikhil More.
+In my this git repository you will gain such amazing projects in c++.
+In later I am build some java projects.
+My every project i am include some data structure concepts such as stack,queue,linked-list etc.
+This projects is very helpfull for college acadamics projects as well as final project also.
+So check out which project suit you...
